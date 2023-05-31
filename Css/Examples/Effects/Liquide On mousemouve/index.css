@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #222;
+}
+
+.wrapper {
+    height: 500px;
+    width: 80%;
+    position: relative;
+    box-shadow: 0px 0px 50px gray;
+    overflow: hidden;
+}
+
+
+.bubble {
+    height: max(400px, 30vh);
+    width: max(400px, 30vh);
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    border-radius: 100%;
+    background: linear-gradient(45deg, rgb(198, 91, 212), rgb(12, 27, 95));
+    animation: animate 2s ease-in-out infinite;
+}
+
+
+@keyframes animate {
+    from, to {
+        transform: translate(-50%, 0%);
+    }
+
+    50% {
+        transform: translate(-50%, -20%);
+    }
+}

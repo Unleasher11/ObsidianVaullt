@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f42a316d03b6f948",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f45377116df029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624058823f30cfc2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa4599dc42488600",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1fd1c8160f9ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edaabede35d6872d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bb75b7a9b1954c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8663dd9027e5ab98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d22cc80696ce74a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73c3390e8aa33a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7d411c520a939d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0871545689cafca6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcdb6db525280d72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03e8271d0aac76b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7588098b1896b67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "624058823f30cfc2",
+  "lastOpenFiles": [
+    "linux/linux basic/essential command-line operation.md",
+    "linux/linux basic/Linux file system.md",
+    "linux/linux basic/working with text files.md",
+    "linux/Package Management/Package manager.md",
+    "linux/Package Management/Repositories.md",
+    "linux/Intro to linux.md",
+    "AI driven dev/Ai driven Dev.md",
+    "GIT/chatGPT git/command examples/git status.md",
+    "GIT/chatGPT git/command examples/git push.md",
+    "GIT/chatGPT git/command examples/git pull.md",
+    "GIT/chatGPT git/command examples/git merge.md",
+    "GIT/chatGPT git/command examples/git init.md",
+    "GIT/chatGPT git/command examples/git commit.md",
+    "GIT/chatGPT git/command examples/git clone.md",
+    "GIT/chatGPT git/command examples/git checkout.md",
+    "GIT/chatGPT git/command examples/git branch.md",
+    "GIT/chatGPT git/command examples/git add.md",
+    "GIT/chatGPT git/Git general.md",
+    "GIT/chatGPT git/Git command examples.md",
+    "GIT/GIT guide.md",
+    "GIT/Git Explained in 100 Seconds(720P_HD).mp4",
+    "GIT/chatGPT git/command examples",
+    "Js/Language concepts/Javascript basic concepts.md",
+    "js.md",
+    "general_dev.md",
+    "Js/Fameworks/Sveltekit/Sveltekit.md",
+    "templates test/Untitled.md",
+    "Css/Fameworks/Tailwind css/Basic/Ultimate Tailwind CSS Tutorial __ Build a Discord-inspired Animated Navbar(720P_HD).mp4",
+    "Css/Fameworks/Tailwind css/Basic/Tailwind css Basic.md",
+    "Js/Fameworks/Sveltekit/Components",
+    "Js/Fameworks/React/Router",
+    "Js/Fameworks/React/conditional rendering",
+    "Js/Fameworks/React/Handling events",
+    "Js/Fameworks/React/Hooks",
+    "Js/Fameworks/React/Lifecycle methods",
+    "Js/Fameworks/React/Props",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
